@@ -1,1 +1,1 @@
-print("versão atualizadissima")
+local version = 1.0
