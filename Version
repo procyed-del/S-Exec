@@ -1,1 +1,2 @@
-local version = 1.0
+local player = game.Players.LocalPlayer
+player:Kick("Descontinuado, Novo executor em produção")
